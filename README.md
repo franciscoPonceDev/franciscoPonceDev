@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi! I'm Francisco.
+- 👨🏻‍💻 I'm a Full-Stack Developer.
+- 👀 I use Javascript, Webpack, React, Ruby & Node.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoPonceDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoPonceDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **franciscoPonceDev/franciscoPonceDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
